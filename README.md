@@ -1,3 +1,12 @@
-Hi! My name is Oliver and i'm currently stufying the digital T-Level course.
-Right now, I know how to code in python and some basic html/css :)
-You can reach me at oliverchapman2006@gmail.com!
+my name's oliver
+currently studying computer science at university
+im fluent in python, html and css
+i know some java, javascript, php and mysql
+
+planning on learning c++/c#
+
+you can reach me at this address
+
+1337 epic road
+information superhighway
+earth
