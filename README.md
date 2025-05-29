@@ -1,4 +1,3 @@
-my name's oliver
 currently studying computer science at university
 im fluent in python, html and css
 i know some java, javascript, php and mysql
